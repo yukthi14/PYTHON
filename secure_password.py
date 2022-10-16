@@ -1,6 +1,3 @@
-
-
-
 secure=(('y','@'),('k','K'),('i','&'),('1','^'),('0','o'),('9','#'))
 def securePassword(password):
     for a,b in secure:
